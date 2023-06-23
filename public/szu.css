@@ -1,0 +1,108 @@
+.szu body,
+.szu p,
+.szu br,
+.szu td,
+.szu span {
+  color: #202020;
+  font-family: 微软雅黑;
+  font-size: 14px;
+  line-height: 170%;
+}
+
+.szu a {
+  color: #202020;
+  text-decoration: none;
+}
+.szu a:hover {
+  color: #e64f80;
+  text-decoration: underline;
+}
+.szu .hand {
+  cursor: pointer;
+}
+.szu .tbhead {
+  background-image: url('images/back1.jpg');
+  background-repeat: repeat-x;
+  background-position: top;
+}
+.szu .tbleft {
+  background-color: #eeeeee;
+  background-image: url('images/bgnc.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+.szu .tbbottom {
+  background-attachment: scroll;
+  background-image: url('images/back2.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  font-size: 12px;
+  color: #888888;
+}
+.szu .tbcolor1 {
+  background-color: #950040;
+}
+.szu .tbcolor2 {
+  background-color: #c70e5c;
+}
+.szu .tbcolor3 {
+  background-color: #e64f80;
+}
+.szu .tbcolor4 {
+  background-color: #ffffff;
+}
+.szu .tbcolor5 {
+  background-color: #faf9e5;
+}
+.szu .tbcolor6 {
+  background-color: #f2f6f9;
+}
+.szu .tbcolor7 {
+  background-color: #e4d6e3;
+}
+.szu .tbcolor8 {
+  background-color: #ece3eb;
+}
+.szu .tbcolor9 {
+  background-color: #e64f80;
+}
+.szu .tbcolor10 {
+  background-color: #f2f6f9;
+}
+.szu .tbcolor11 {
+  background-color: #cd699b;
+}
+.szu .tbcolor12 {
+  background-color: #faf1f5;
+}
+.szu .tbcolor13 {
+  background-color: #cddade;
+}
+.szu .tbcolor14 {
+  background-color: #f3f3f5;
+}
+
+.szu .fontcolor1 {
+  color: #ffffff;
+}
+.szu .fontcolor2 {
+  color: #ffffff;
+}
+.szu .fontcolor3 {
+  color: #c70e5c;
+}
+.szu .fontcolor4 {
+  color: #ff3300;
+}
+.szu .fontcolor5 {
+  color: #888888;
+}
+.szu .fontcolor6 {
+  color: #008800;
+}
+.szu .fontcolor7 {
+  color: #cc0000;
+}
+.szu .fontcolor8 {
+  color: #dddddd;
+}

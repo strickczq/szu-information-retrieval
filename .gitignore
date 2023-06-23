@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# 数据集
+dataset
+
+# Rust 编译文件
+**/target
+
+# NodeJS 依赖
+**/node_modules
